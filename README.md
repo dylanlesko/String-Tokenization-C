@@ -17,5 +17,5 @@ separated by one or more separator characters. The tokenizer should return the t
 second string one token at a time, hence your program is called a tokenizer
 
 ###Invocation
-gcc tokenizer tokenizer.c
-./tokenizer <tokens> <string>
+    - gcc tokenizer tokenizer.c
+    - ./tokenizer <tokens> <string>
